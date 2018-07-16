@@ -3,7 +3,7 @@ Share your files or text data right away from your terminal and get a shareable 
  
  This service is using http://file.io
  
- <h1>Usage</h1> :
+ <h1>Usage</h1>
  
  `sh share.sh [-f 'PATH_TO_FILE']  [-d 'TEXT_DATA']  '3d|14w|1m|2y'`
  
